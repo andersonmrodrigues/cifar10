@@ -2,11 +2,7 @@
 
 ## Description
 
-```
-
 Parallelize the Convolutional Neural Network (CNN) application CIFAR-10, developed in C/C++, available within the CMSIS-NN library examples for Arm microcontrollers. CMSIS repository: https://github.com/ARM-software/CMSIS_5/tree/5.7.0/
-
-```
 
 ## Instructions (follow the order)
 
