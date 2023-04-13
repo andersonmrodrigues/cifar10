@@ -49,7 +49,7 @@ int main()
   printf("start execution\n");
   /* start the execution */
   
-  for(int i=0; i < 100; i++) {
+  for(int i=0; i < 1000; i++) {
 	  /*
 	  char img_data_name[20];
 	  sprintf(img_data_name, "IMG_DATA%i", i);
