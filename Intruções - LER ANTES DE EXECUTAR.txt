@@ -1,0 +1,4 @@
+1 - Antes de executar a biblioteca CMSIS deve ser colocada dentro da pasta, o nome da pasta deve ser CMSIS_5
+2 - O arquivo arm_nnexamples_cifar10_inputs que está na raiz do projeto deve ser copiado para as pastas code_paral_clang, code_paral_gcc, code_seq_clang e code_seq_gcc.
+3 - Após tudo configurado basta ir até a pasta que code_paral_clang ou code_paral_gcc ou code_seq_clang ou code_seq_gcc através do terminal, rodar make e depois ./app.exe
+4 - Video da execução: https://www.youtube.com/watch?v=SOtboeKUUX4
